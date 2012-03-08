@@ -1,0 +1,4 @@
+# /bin/bash
+
+curl --silent http://127.0.0.1:6080/power
+
